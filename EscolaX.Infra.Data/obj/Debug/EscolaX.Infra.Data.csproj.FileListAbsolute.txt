@@ -1,0 +1,25 @@
+C:\Users\Eduardo\Documents\Visual Studio 2015\Projects\EscolaX\EscolaX.Infra.Data\bin\Debug\EscolaX.Infra.Data.dll.config
+C:\Users\Eduardo\Documents\Visual Studio 2015\Projects\EscolaX\EscolaX.Infra.Data\bin\Debug\EscolaX.Infra.Data.dll
+C:\Users\Eduardo\Documents\Visual Studio 2015\Projects\EscolaX\EscolaX.Infra.Data\bin\Debug\EscolaX.Infra.Data.pdb
+C:\Users\Eduardo\Documents\Visual Studio 2015\Projects\EscolaX\EscolaX.Infra.Data\bin\Debug\EntityFramework.dll
+C:\Users\Eduardo\Documents\Visual Studio 2015\Projects\EscolaX\EscolaX.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Eduardo\Documents\Visual Studio 2015\Projects\EscolaX\EscolaX.Infra.Data\bin\Debug\EntityFramework.xml
+C:\Users\Eduardo\Documents\Visual Studio 2015\Projects\EscolaX\EscolaX.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Eduardo\Documents\Visual Studio 2015\Projects\EscolaX\EscolaX.Infra.Data\obj\Debug\EscolaX.Infra.Data.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo\Documents\Visual Studio 2015\Projects\EscolaX\EscolaX.Infra.Data\obj\Debug\EscolaX.Infra.Data.dll
+C:\Users\Eduardo\Documents\Visual Studio 2015\Projects\EscolaX\EscolaX.Infra.Data\obj\Debug\EscolaX.Infra.Data.pdb
+C:\Users\Eduardo\Documents\Visual Studio 2015\Projects\EscolaX\EscolaX.Infra.Data\bin\Debug\EscolaX.Domain.dll
+C:\Users\Eduardo\Documents\Visual Studio 2015\Projects\EscolaX\EscolaX.Infra.Data\bin\Debug\EscolaX.Domain.pdb
+C:\Projetos\EscolaX\EscolaX.Infra.Data\bin\Debug\EscolaX.Infra.Data.dll.config
+C:\Projetos\EscolaX\EscolaX.Infra.Data\bin\Debug\EscolaX.Infra.Data.dll
+C:\Projetos\EscolaX\EscolaX.Infra.Data\bin\Debug\EscolaX.Infra.Data.pdb
+C:\Projetos\EscolaX\EscolaX.Infra.Data\bin\Debug\EntityFramework.dll
+C:\Projetos\EscolaX\EscolaX.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projetos\EscolaX\EscolaX.Infra.Data\bin\Debug\EscolaX.Domain.dll
+C:\Projetos\EscolaX\EscolaX.Infra.Data\bin\Debug\EscolaX.Domain.pdb
+C:\Projetos\EscolaX\EscolaX.Infra.Data\bin\Debug\EntityFramework.xml
+C:\Projetos\EscolaX\EscolaX.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projetos\EscolaX\EscolaX.Infra.Data\obj\Debug\EscolaX.Infra.Data.csprojResolveAssemblyReference.cache
+C:\Projetos\EscolaX\EscolaX.Infra.Data\obj\Debug\EscolaX.Infra.Data.dll
+C:\Projetos\EscolaX\EscolaX.Infra.Data\obj\Debug\EscolaX.Infra.Data.pdb
+C:\Projetos\EscolaX\EscolaX.Infra.Data\obj\Debug\EscolaX.Infra.Data.csproj.CoreCompileInputs.cache

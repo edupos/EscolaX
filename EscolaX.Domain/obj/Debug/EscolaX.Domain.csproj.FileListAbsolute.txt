@@ -1,0 +1,11 @@
+C:\Users\Eduardo\Documents\Visual Studio 2015\Projects\EscolaX\EscolaX.Domain\bin\Debug\EscolaX.Domain.dll
+C:\Users\Eduardo\Documents\Visual Studio 2015\Projects\EscolaX\EscolaX.Domain\bin\Debug\EscolaX.Domain.pdb
+C:\Users\Eduardo\Documents\Visual Studio 2015\Projects\EscolaX\EscolaX.Domain\obj\Debug\EscolaX.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo\Documents\Visual Studio 2015\Projects\EscolaX\EscolaX.Domain\obj\Debug\EscolaX.Domain.dll
+C:\Users\Eduardo\Documents\Visual Studio 2015\Projects\EscolaX\EscolaX.Domain\obj\Debug\EscolaX.Domain.pdb
+C:\Projetos\EscolaX\EscolaX.Domain\bin\Debug\EscolaX.Domain.dll
+C:\Projetos\EscolaX\EscolaX.Domain\bin\Debug\EscolaX.Domain.pdb
+C:\Projetos\EscolaX\EscolaX.Domain\obj\Debug\EscolaX.Domain.csprojResolveAssemblyReference.cache
+C:\Projetos\EscolaX\EscolaX.Domain\obj\Debug\EscolaX.Domain.dll
+C:\Projetos\EscolaX\EscolaX.Domain\obj\Debug\EscolaX.Domain.pdb
+C:\Projetos\EscolaX\EscolaX.Domain\obj\Debug\EscolaX.Domain.csproj.CoreCompileInputs.cache

@@ -1,0 +1,52 @@
+C:\Users\Eduardo\Documents\Visual Studio 2015\Projects\EscolaX\EscolaX.CrossCutting.InversionOfControl\obj\Debug\EscolaX.CrossCutting.InversionOfControl.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo\Documents\Visual Studio 2015\Projects\EscolaX\EscolaX.CrossCutting.InversionOfControl\bin\Debug\EscolaX.CrossCutting.InversionOfControl.dll
+C:\Users\Eduardo\Documents\Visual Studio 2015\Projects\EscolaX\EscolaX.CrossCutting.InversionOfControl\bin\Debug\EscolaX.CrossCutting.InversionOfControl.pdb
+C:\Users\Eduardo\Documents\Visual Studio 2015\Projects\EscolaX\EscolaX.CrossCutting.InversionOfControl\bin\Debug\CommonServiceLocator.NinjectAdapter.Unofficial.dll
+C:\Users\Eduardo\Documents\Visual Studio 2015\Projects\EscolaX\EscolaX.CrossCutting.InversionOfControl\bin\Debug\EscolaX.Application.dll
+C:\Users\Eduardo\Documents\Visual Studio 2015\Projects\EscolaX\EscolaX.CrossCutting.InversionOfControl\bin\Debug\EscolaX.Domain.dll
+C:\Users\Eduardo\Documents\Visual Studio 2015\Projects\EscolaX\EscolaX.CrossCutting.InversionOfControl\bin\Debug\EscolaX.Infra.Data.dll
+C:\Users\Eduardo\Documents\Visual Studio 2015\Projects\EscolaX\EscolaX.CrossCutting.InversionOfControl\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Eduardo\Documents\Visual Studio 2015\Projects\EscolaX\EscolaX.CrossCutting.InversionOfControl\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Eduardo\Documents\Visual Studio 2015\Projects\EscolaX\EscolaX.CrossCutting.InversionOfControl\bin\Debug\Ninject.dll
+C:\Users\Eduardo\Documents\Visual Studio 2015\Projects\EscolaX\EscolaX.CrossCutting.InversionOfControl\bin\Debug\Ninject.Web.Common.dll
+C:\Users\Eduardo\Documents\Visual Studio 2015\Projects\EscolaX\EscolaX.CrossCutting.InversionOfControl\bin\Debug\Ninject.Web.Mvc.dll
+C:\Users\Eduardo\Documents\Visual Studio 2015\Projects\EscolaX\EscolaX.CrossCutting.InversionOfControl\bin\Debug\WebActivatorEx.dll
+C:\Users\Eduardo\Documents\Visual Studio 2015\Projects\EscolaX\EscolaX.CrossCutting.InversionOfControl\bin\Debug\EntityFramework.dll
+C:\Users\Eduardo\Documents\Visual Studio 2015\Projects\EscolaX\EscolaX.CrossCutting.InversionOfControl\bin\Debug\EscolaX.Application.pdb
+C:\Users\Eduardo\Documents\Visual Studio 2015\Projects\EscolaX\EscolaX.CrossCutting.InversionOfControl\bin\Debug\EscolaX.Domain.pdb
+C:\Users\Eduardo\Documents\Visual Studio 2015\Projects\EscolaX\EscolaX.CrossCutting.InversionOfControl\bin\Debug\EscolaX.Infra.Data.pdb
+C:\Users\Eduardo\Documents\Visual Studio 2015\Projects\EscolaX\EscolaX.CrossCutting.InversionOfControl\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Eduardo\Documents\Visual Studio 2015\Projects\EscolaX\EscolaX.CrossCutting.InversionOfControl\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Eduardo\Documents\Visual Studio 2015\Projects\EscolaX\EscolaX.CrossCutting.InversionOfControl\bin\Debug\Ninject.xml
+C:\Users\Eduardo\Documents\Visual Studio 2015\Projects\EscolaX\EscolaX.CrossCutting.InversionOfControl\bin\Debug\Ninject.Web.Common.xml
+C:\Users\Eduardo\Documents\Visual Studio 2015\Projects\EscolaX\EscolaX.CrossCutting.InversionOfControl\bin\Debug\Ninject.Web.Mvc.xml
+C:\Users\Eduardo\Documents\Visual Studio 2015\Projects\EscolaX\EscolaX.CrossCutting.InversionOfControl\bin\Debug\EntityFramework.xml
+C:\Users\Eduardo\Documents\Visual Studio 2015\Projects\EscolaX\EscolaX.CrossCutting.InversionOfControl\obj\Debug\EscolaX.CrossCutting.InversionOfControl.dll
+C:\Users\Eduardo\Documents\Visual Studio 2015\Projects\EscolaX\EscolaX.CrossCutting.InversionOfControl\obj\Debug\EscolaX.CrossCutting.InversionOfControl.pdb
+C:\Projetos\EscolaX\EscolaX.CrossCutting.InversionOfControl\bin\Debug\EscolaX.CrossCutting.InversionOfControl.dll
+C:\Projetos\EscolaX\EscolaX.CrossCutting.InversionOfControl\bin\Debug\EscolaX.CrossCutting.InversionOfControl.pdb
+C:\Projetos\EscolaX\EscolaX.CrossCutting.InversionOfControl\bin\Debug\CommonServiceLocator.NinjectAdapter.Unofficial.dll
+C:\Projetos\EscolaX\EscolaX.CrossCutting.InversionOfControl\bin\Debug\EscolaX.Application.dll
+C:\Projetos\EscolaX\EscolaX.CrossCutting.InversionOfControl\bin\Debug\EscolaX.Domain.dll
+C:\Projetos\EscolaX\EscolaX.CrossCutting.InversionOfControl\bin\Debug\EscolaX.Infra.Data.dll
+C:\Projetos\EscolaX\EscolaX.CrossCutting.InversionOfControl\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Projetos\EscolaX\EscolaX.CrossCutting.InversionOfControl\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Projetos\EscolaX\EscolaX.CrossCutting.InversionOfControl\bin\Debug\Ninject.dll
+C:\Projetos\EscolaX\EscolaX.CrossCutting.InversionOfControl\bin\Debug\Ninject.Web.Common.dll
+C:\Projetos\EscolaX\EscolaX.CrossCutting.InversionOfControl\bin\Debug\Ninject.Web.Mvc.dll
+C:\Projetos\EscolaX\EscolaX.CrossCutting.InversionOfControl\bin\Debug\WebActivatorEx.dll
+C:\Projetos\EscolaX\EscolaX.CrossCutting.InversionOfControl\bin\Debug\EntityFramework.dll
+C:\Projetos\EscolaX\EscolaX.CrossCutting.InversionOfControl\bin\Debug\EscolaX.Application.pdb
+C:\Projetos\EscolaX\EscolaX.CrossCutting.InversionOfControl\bin\Debug\EscolaX.Domain.pdb
+C:\Projetos\EscolaX\EscolaX.CrossCutting.InversionOfControl\bin\Debug\EscolaX.Infra.Data.pdb
+C:\Projetos\EscolaX\EscolaX.CrossCutting.InversionOfControl\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Projetos\EscolaX\EscolaX.CrossCutting.InversionOfControl\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Projetos\EscolaX\EscolaX.CrossCutting.InversionOfControl\bin\Debug\Ninject.xml
+C:\Projetos\EscolaX\EscolaX.CrossCutting.InversionOfControl\bin\Debug\Ninject.Web.Common.xml
+C:\Projetos\EscolaX\EscolaX.CrossCutting.InversionOfControl\bin\Debug\Ninject.Web.Mvc.xml
+C:\Projetos\EscolaX\EscolaX.CrossCutting.InversionOfControl\bin\Debug\EntityFramework.xml
+C:\Projetos\EscolaX\EscolaX.CrossCutting.InversionOfControl\obj\Debug\EscolaX.CrossCutting.InversionOfControl.csprojResolveAssemblyReference.cache
+C:\Projetos\EscolaX\EscolaX.CrossCutting.InversionOfControl\obj\Debug\EscolaX.CrossCutting.InversionOfControl.dll
+C:\Projetos\EscolaX\EscolaX.CrossCutting.InversionOfControl\obj\Debug\EscolaX.CrossCutting.InversionOfControl.pdb
+C:\Projetos\EscolaX\EscolaX.CrossCutting.InversionOfControl\bin\Debug\EscolaX.Infra.Data.dll.config
+C:\Projetos\EscolaX\EscolaX.CrossCutting.InversionOfControl\obj\Debug\EscolaX.CrossCutting.InversionOfControl.csproj.CoreCompileInputs.cache
