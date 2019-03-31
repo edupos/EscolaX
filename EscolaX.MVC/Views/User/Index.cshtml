@@ -1,0 +1,92 @@
+﻿@model IEnumerable<EscolaX.MVC.ViewModels.UserViewModel>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Email)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Password)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.SecurityQuestion)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.SecurityAnswer)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.IncludeDate)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.LastLogin)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Password)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SecurityQuestion)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SecurityAnswer)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IncludeDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LastLogin)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.UserId }) |
+                @Html.ActionLink("Details", "Details", new { id = item.UserId }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.UserId })
+            </td>
+        </tr>
+    }
+
+</table>
+
+
+<div ng-controller="hello">
+
+    <!-- chamamos a variavel que declaramos no .js  -->
+    Hello {{name}}
+
+    <input ng-model="name" placeHolder="type your name please" /> <br />
+
+</div>
+<div ng-controller="AppCtrl">
+    <md-content>
+        <section layout="row" layout-sm="column" layout-align="center center" layout-wrap>
+            <md-button class="md-raised">Button</md-button>
+            <md-button class="md-raised md-primary">Primary</md-button>
+            <md-button ng-disabled="true" class="md-raised md-primary">Disabled</md-button>
+            <md-button class="md-raised md-warn">Warn</md-button>
+            <div class="label">Raised</div>
+        </section>
+    </md-content>
+</div>
+

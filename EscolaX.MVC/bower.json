@@ -1,0 +1,24 @@
+{
+  "name": "Escola",
+  "version": "1.0.0",
+  "description": "Escola",
+  "main": "Scripts/MyScripts/angularTest.js",
+  "moduleType": [],
+  "authors": [
+    "Eduardo"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "angular": "angularjs#~1.4.7"
+  }
+}
